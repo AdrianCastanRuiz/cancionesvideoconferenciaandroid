@@ -1,19 +1,16 @@
 {
   "canciones": [
     {
-      "nombre ": "cancion1",
+      "nombre": "cancion1",
       "url": "https://github.com/AdrianCastanRuiz/cancionesvideoconferenciaandroid/raw/refs/heads/main/cancion1.mp3"
-   
     },
     {
-      "nombre ": "cancion2",
+      "nombre": "cancion2",
       "url": "https://github.com/AdrianCastanRuiz/cancionesvideoconferenciaandroid/raw/refs/heads/main/cancion2.mp3"
-    
     },
     {
-      "nombre ": "cancion3",
+      "nombre": "cancion3",
       "url": "https://github.com/AdrianCastanRuiz/cancionesvideoconferenciaandroid/raw/refs/heads/main/cancion3.mp3"
-
     }
   ]
 }
